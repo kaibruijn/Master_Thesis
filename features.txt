@@ -1,0 +1,1 @@
+fivegram_sim+fourgram_sim+trigram_sim+bigram_sim+unigram_sim+fivegram_spi+fourgram_spi+trigram_spi+bigram_spi+unigram_spi+punct_sim+line_endings_sim+linelength_sim+lettercase_diff+textblock_diff+vec_sim+abs(avg_sen_len - avg_sen_len_unkn)+avg_joint_ent+abs(avg_ent - ent_unkn)+compression_dissimilarity+avg_ent+ent_unkn+avg_sen_len+

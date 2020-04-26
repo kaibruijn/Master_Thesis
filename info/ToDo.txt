@@ -1,0 +1,26 @@
+all features
+unigram spi
+bigram spi
+trigram spi
+fourgram spi
+fivegram spi
+unigram sim
+bigram sim
+trigram sim
+fourgram sim
+fivegram sim
+punct sim
+line endings sim
+line length sim
+lettercase diff
+textblock diff
+vec sim
+avg sen len - avg sen len unk
+avg joint ent
+avg ent - ent unk
+compression dissimilarity
+avg ent
+ent unk
+avg sen len
+avg sen len unk
+
